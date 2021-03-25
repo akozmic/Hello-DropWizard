@@ -1,0 +1,3 @@
+kozmic/helloapi/resources/HelloWorldResource.class
+kozmic/helloapi/healthchecks/TemplateHealthCheck.class
+kozmic/helloapi/models/Saying.class
